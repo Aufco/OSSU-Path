@@ -1,0 +1,6 @@
+node_modules/
+dist/
+computer-science/
+.DS_Store
+Thumbs.db
+*.log

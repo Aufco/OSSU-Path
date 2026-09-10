@@ -1,0 +1,33 @@
+## Early Career Geospatial Engineer at Vantor
+
+### Position Requirements
+
+* **Experience:** 1–3 years of experience in a geospatial technical role.
+* **Education:** Bachelor’s degree in Computer Science or equivalent (OSSU curriculum accepted).
+
+### Role Overview
+
+This role bridges the gap between geospatial data analysis and platform engineering. You will focus on moving spatial data, satellite imagery, and computer vision models from prototypes into a production cloud environment, focusing heavily on spatial databases, containerized architectures, and automated data pipelines.
+
+### Core Responsibilities
+
+* **Spatial Data Ingestion:** Build data ingest, transformation, and indexing components specifically for geospatial and imagery data types.
+* **Containerization & Orchestration:** Deploy and maintain containerized application architectures using **Kubernetes**.
+* **Infrastructure as Code:** Create and improve deployment patterns and infrastructure automation using **Terraform**.
+* **Geospatial Visualization:** Support 3D terrain and map-based analytic workflows using **Cesium**.
+* **Model Operationalization:** Integrate and deploy AI/ML computer vision models into production environments for automated feature extraction.
+
+### Technical Qualifications
+
+#### Minimum Qualifications
+
+* Experience working with spatial databases, specifically writing advanced spatial queries using **PostGIS**.
+* Hands-on experience containerizing applications using **Docker**.
+* Demonstrated familiarity with remote sensing concepts, imagery systems, or earth observation data (EO/SAR).
+
+#### Preferred Qualifications
+
+* Experience building automated data pipelines using **Apache Airflow**.
+* Exposure to scalable machine learning inference runtimes, specifically **NVIDIA Triton**.
+* Experience deploying and managing resources within an **AWS** cloud environment.
+* Familiarity with cloud monitoring and observability tools like **Grafana**.
